@@ -20,13 +20,12 @@
 
 ![image](https://github.com/tmcheon1/niaproject/blob/master/데이터%20구조도.jpg)
 
- 
+
 <p align='center'>Figure 2: 데이터 항목 및 설명.</p>
  
 ![image](https://github.com/tmcheon1/niaproject/blob/master/데이터%20항목%20및%20설명.jpg)
 
- 
- 
+
 <p align='center'>Figure 3: 데이터 구조.</p>
 
 ![image](https://github.com/tmcheon1/niaproject/blob/master/데이터%20구조.jpg)
@@ -36,7 +35,7 @@
 
 ### 1차 데이터셋 구축 정보
 * 구축 데이터 총 러닝 타임 : 약 25시간
-* 동영상 클립 수 : 1273개
+* 동영상 클립 수 : 1,273개
 * 대화 문장 수 : 16,048개
 
 ### 8종 감성 정보
